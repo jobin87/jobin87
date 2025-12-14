@@ -11,6 +11,8 @@ I’m a Full-Stack Web Developer focused on building scalable, production-ready 
 
 🌐 Networking and collaborating with developers
 
+
+
 🧠 BIO
 
 👨‍💻 Full-Stack Web Developer
@@ -21,29 +23,22 @@ I’m a Full-Stack Web Developer focused on building scalable, production-ready 
 
 🌱 Growing in DSA, system design & cloud architecture
 
+
 🛠️ TECH STACK
 
-Frontend
+Frontend                                    Backend
 
-🔸 React.js
+🔸 React.js                               🔸 Java (Spring Boot)
 
-🔸 TypeScript
+🔸 TypeScript                             🔸 NestJS (Node.js)
 
-🔸 Next.js
+🔸 Next.js                                🔸 Node.js
 
-🔸 Redux
+🔸 Redux                                  🔸 mysql, postgresql                                 
 
-🔸 JavaScript
+🔸 JavaScript                             🔸 MongoDB
 
-Backend
 
-🔸 Java (Spring Boot)
-
-🔸 NestJS (Node.js)
-
-🔸 Node.js
-
-🔸 MongoDB
 
 Cloud & Tools
 
