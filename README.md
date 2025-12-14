@@ -1,55 +1,45 @@
-Hi there 👋
-I’m a Full-Stack Web Developer focused on building scalable, production-ready applications.
+## Hi there 👋  
+I'm **Jobin**, a Full-Stack Web Developer focused on building scalable, production-ready applications.
 
-🚀 NOW
+---
 
-🤹‍♂️ Building and improving full-stack systems
+### 🚀 Currently
 
-👨‍💻 Working with modern backend frameworks & cloud
+- Building and refining full-stack systems  
+- Working with modern backend frameworks  
+- Applying **AWS** in real-world projects  
+- Collaborating and networking with developers  
 
-☁️ Learning and applying AWS in real projects
+---
 
-🌐 Networking and collaborating with developers
+### 🧠 About Me
 
+- Full-Stack Web Developer  
+- Computer Science background  
+- Strong learning mindset & problem solver  
+- Currently growing in **DSA, system design & cloud architecture**
 
+---
 
-🧠 BIO
+### 🛠️ Tech Stack
 
-👨‍💻 Full-Stack Web Developer
+| Frontend | Backend |
+|--------|--------|
+| React.js | Java (Spring Boot) |
+| TypeScript | NestJS |
+| Next.js | Node.js |
+| Redux | MySQL • PostgreSQL |
+| JavaScript | MongoDB |
 
-👨‍🎓 Computer Science background
+**Cloud & Tools**
 
-🦸‍♂️ Strong learning mindset & problem solver
+- AWS (EC2, S3, IAM, RDS)  
+- Git & GitHub  
+- Linux  
 
-🌱 Growing in DSA, system design & cloud architecture
+---
 
+### 📫 Get in Touch
 
-🛠️ TECH STACK
-
-Frontend                                    Backend
-
-🔸 React.js                               🔸 Java (Spring Boot)
-
-🔸 TypeScript                             🔸 NestJS (Node.js)
-
-🔸 Next.js                                🔸 Node.js
-
-🔸 Redux                                  🔸 mysql, postgresql                                 
-
-🔸 JavaScript                             🔸 MongoDB
-
-
-
-Cloud & Tools
-
-🔸 AWS (EC2, S3, IAM, RDS – learning & building)
-
-🔸 Git & GitHub
-
-🔸 Linux
-
-📫 Get in touch
-
-LinkedIn: your-linkedin-username
-
-GitHub: github.com/jobin
+- **LinkedIn**: your-linkedin-username  
+- **GitHub**: https://github.com/jobin
